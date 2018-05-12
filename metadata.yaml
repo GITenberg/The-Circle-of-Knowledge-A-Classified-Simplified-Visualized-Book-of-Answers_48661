@@ -1,10 +1,14 @@
 _repo: The-Circle-of-Knowledge-A-Classified-Simplified-Visualized-Book-of-Answers_48661
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Ruoff, Henry W.
       gutenberg_agent_id: '44906'
       url: http://www.gutenberg.org/2009/agents/44906
+covers:
+- cover_type: archival
+  image_path: 48661-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -12,6 +16,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48661#The-Circle-of-Knowledge-A-Classified-Simplified-Visualized-Book-of-Answers
 gutenberg_issued: '2015-04-07'
 gutenberg_type: Text
 identifiers:
